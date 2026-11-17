@@ -11,7 +11,7 @@ function Home() {
       <main className="hero">
         <div className="hero-content">
           <p className="eyebrow">BRING NATURE HOME</p>
-          <h1>Paradise Nursery</h1>
+          <h1>Welcome to Paradise Nursery</h1>
           <p className="hero-copy">Make room for a little more green. Discover houseplants that bring warmth, calm and character to your home.</p>
           <Link to="/plants" className="primary-button hero-button">Get Started</Link>
         </div>
